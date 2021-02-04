@@ -1,8 +1,13 @@
+.o {
+    color: aqua;
+}
+
 body {
     text-align: center;
     margin: 0;
     padding-top: 800px;
     position: static;
+    background-color: blueviolet;
 }
 
 #welcome {
@@ -133,8 +138,8 @@ p {
     transition-duration: 0.4s;
 }
 #HISTO {
-    height: 850px;
-    width: 800px;
+    height: 1199px;
+    width: 685px;
 }
 
 #batl {
